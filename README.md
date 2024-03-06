@@ -1,3 +1,3 @@
 # apnacollege-demo
 Practicing Git and Github <br>
-Updated by Bilal
+Updated by Bilal Alam
